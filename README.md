@@ -14,7 +14,7 @@ public class HelloWorld {
     System.out.println("thursday");
     else if(n==6)
     System.out.println("friday");
-     else if(n==7)
+     else 
     System.out.println("saturday");
 }
 }
